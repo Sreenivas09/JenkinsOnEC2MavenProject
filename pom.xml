@@ -1,15 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bogotobogo</groupId>
- 
   <artifactId>JankinsOnEC2Maven</artifactId>
-	<packaging>war</packaging>
-	<version>1.2</version>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
   <properties>
     <maven.compiler.source>7</maven.compiler.source>
     <maven.compiler.target>7</maven.compiler.target>
   </properties>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
